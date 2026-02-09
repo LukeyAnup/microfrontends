@@ -1,0 +1,9 @@
+[submodule "auth-mfe"]
+	path = auth-mfe
+	url = https://github.com/LukeyAnup/auth-mfe.git
+[submodule "shell-mfe"]
+	path = shell-mfe
+	url = https://github.com/LukeyAnup/shell-mfe.git
+[submodule "products-mfe"]
+	path = products-mfe
+	url = https://github.com/LukeyAnup/products-mfe.git
