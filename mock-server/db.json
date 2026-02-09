@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "c050",
+      "username": "Lukey",
+      "password": "Password@123",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1768371374171.1396,
+          "productId": 1,
+          "quantity": 3,
+          "checkedOutAt": "2026-02-04T13:05:59.915Z"
+        },
+        {
+          "id": 1768371374171.1113,
+          "productId": 2,
+          "quantity": 1,
+          "checkedOutAt": "2026-01-14T06:16:14.171Z"
+        },
+        {
+          "id": 1768371374171.3354,
+          "productId": 3,
+          "quantity": 2,
+          "checkedOutAt": "2026-02-04T13:05:59.915Z"
+        },
+        {
+          "id": 1770210359915.14,
+          "productId": 6,
+          "quantity": 1,
+          "checkedOutAt": "2026-02-04T13:05:59.915Z"
+        },
+        {
+          "id": 1770210359915.3538,
+          "productId": 5,
+          "quantity": 1,
+          "checkedOutAt": "2026-02-04T13:05:59.915Z"
+        },
+        {
+          "id": 1770210359915.0278,
+          "productId": 7,
+          "quantity": 1,
+          "checkedOutAt": "2026-02-04T13:05:59.915Z"
+        }
+      ],
+      "favourites": [
+        {
+          "id": 1768732129607,
+          "productId": 1,
+          "addedAt": "2026-01-18T10:28:49.607Z"
+        },
+        {
+          "id": 1770210902012,
+          "productId": 2,
+          "addedAt": "2026-02-04T13:15:02.012Z"
+        }
+      ]
+    },
+    {
+      "id": "446c",
+      "username": "Anup",
+      "password": "password",
+      "cart": [],
+      "favourites": [],
+      "orders": [
+        {
+          "id": 1768370040270.0278,
+          "productId": 2,
+          "quantity": 2,
+          "checkedOutAt": "2026-01-14T05:54:28.880Z"
+        },
+        {
+          "id": 1768370040270.5405,
+          "productId": 3,
+          "quantity": 2,
+          "checkedOutAt": "2026-01-14T05:54:28.881Z"
+        }
+      ]
+    },
+    {
+      "username": "Luks",
+      "password": "Password",
+      "cart": [],
+      "favourites": [],
+      "orders": [],
+      "id": "uXhWzab"
+    }
+  ]
+}
